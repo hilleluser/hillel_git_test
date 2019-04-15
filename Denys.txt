@@ -1,2 +1,2 @@
 Test message ¹2
-Added stash support
+Added stash support - conflict from Liuba
