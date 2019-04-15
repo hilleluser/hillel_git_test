@@ -1,8 +1,29 @@
 Test message ¹2
 <<<<<<< HEAD
+Added stash support OLOLOLOLO
+<<<<<<< .mine
+
+Very well message
+
+
+
+
+=======
 Added stash support
 ania got it!
 =======
 Added stash support - conflict from Liuba
 >>>>>>> 6b491d1c7e7e7278db4be1dba18578fd35fb32df
+<<<<<<< HEAD
 09090909090909
+=======
+>>>>>>> .theirs
+=======
+
+
+ania got it!
+=======
+Added stash support - conflict from Liuba
+
+>>>>>>> f6f0e002b25811e26e46ba483b0002f513c3884c
+>>>>>>> 2f1984b943f350d4909d33c0da23cd9e50b10693
